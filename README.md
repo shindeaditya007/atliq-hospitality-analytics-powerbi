@@ -35,7 +35,7 @@ The goal is to support data-driven decision-making for pricing, operations, and 
 - Weekly trend analysis
 - Revenue vs occupancy insights
 
-![Executive](images/executive.png)
+![Executive](./images/executive.png)
 
 ---
 
@@ -44,7 +44,7 @@ The goal is to support data-driven decision-making for pricing, operations, and 
 - Top/Bottom property performance
 - Cancellation risk insights
 
-![Performance](images/performance.png)
+![Performance](./images/performance.png)
 
 ---
 
@@ -53,7 +53,7 @@ The goal is to support data-driven decision-making for pricing, operations, and 
 - Conditional formatting for performance comparison
 - Customer rating insights
 
-![Property](images/property.png)
+![Property](./images/property.png)
 
 ---
 
@@ -62,7 +62,7 @@ The goal is to support data-driven decision-making for pricing, operations, and 
 - Cancellation impact analysis
 - Channel performance insights
 
-![Booking](images/booking.png)
+![Booking](./images/booking.png)
 
 ---
 
