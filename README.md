@@ -1,4 +1,12 @@
 # 🏨 AtliQ Hospitality Analytics Dashboard
+<p align="center">
+  <img src="./images/home.jpg" width="800"/>
+</p>
+
+<p align="center">
+  <b>Interactive Power BI Dashboard for Hospitality Analytics</b><br>
+  Revenue • Occupancy • Pricing • Booking Insights
+</p>
 
 An end-to-end Power BI project analyzing hospitality performance across revenue, occupancy, pricing, and booking channels to drive data-driven business decisions.
 
@@ -18,13 +26,38 @@ The goal is to support **strategic decision-making across operations, pricing, a
 
 ---
 
+## 🧩 Problem Statement
+
+AtliQ Grands, a chain of luxury hotels, is facing a decline in market share and revenue due to increased competition and lack of data-driven decision-making.
+
+The management aims to leverage Business Intelligence to:
+- Optimize pricing strategies
+- Improve occupancy rates
+- Reduce cancellations
+- Identify high-performing booking platforms
+
+This dashboard addresses these challenges by providing actionable insights.
+
+---
+
 ## 🧠 Key Insights
 
-- 📉 Revenue declined despite stable occupancy → Indicates **pricing pressure**
-- 💰 High occupancy but lower ADR in some properties → **Pricing optimization opportunity**
-- ⚠️ Consistent cancellation rates across platforms → **Booking reliability risk**
-- 🏨 Premium properties drive higher RevPAR but show higher cancellation exposure
-- 🌍 Mumbai contributes highest revenue, while Delhi leads in occupancy
+- 📉 Revenue decline despite stable occupancy highlights **pricing inefficiencies**
+- 💰 High occupancy but lower ADR signals **missed revenue potential**
+- ⚠️ ~25% cancellation rate leads to **significant revenue leakage**
+- 🏨 Premium properties generate higher RevPAR but face **higher cancellation risk**
+- 🌍 Mumbai drives revenue while Delhi excels in occupancy → **location-based strategy needed**
+
+---
+
+## 📈 Business Impact
+
+This dashboard enables stakeholders to:
+
+- Identify revenue leakage due to cancellations
+- Optimize pricing strategies using demand insights
+- Focus on high-performing booking platforms
+- Improve operational efficiency through data-driven decisions
 
 ---
 
