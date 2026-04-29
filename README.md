@@ -26,7 +26,7 @@ The goal is to support data-driven decision-making for pricing, operations, and 
 - KPI summary
 - Interactive navigation cards
 
-![Home](images/home.png)
+![Home](./images/home.png)
 
 ---
 
