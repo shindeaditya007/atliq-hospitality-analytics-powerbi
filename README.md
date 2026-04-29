@@ -26,7 +26,7 @@ The goal is to support data-driven decision-making for pricing, operations, and 
 - KPI summary
 - Interactive navigation cards
 
-![Home](https://raw.githubusercontent.com/shindeaditya007/atliq-hospitality-analytics-powerbi/main/images/home.png)
+![Home](https://raw.githubusercontent.com/shindeaditya007/atliq-hospitality-analytics-powerbi/main/images/home.jpg)
 
 ---
 
